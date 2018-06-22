@@ -9,6 +9,5 @@ Mumble UDP ping tool
 
 
 
-[Order Mumble](https://v4game.ru/)
-
-[Order TeamSpeak](https://ts4game.ru)
+#### [Mumble hosting](https://v4game.ru)
+#### [TeamSpeak3 hosting](https://ts4game.ru)
